@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "73d83144d58f294f2a5e38833883905c",
+    "revision": "a1b782c0531513fa2fdef9eef858da6f",
     "url": "/index.html"
   },
   {
-    "revision": "c687f874cc1d9c5e65c8",
-    "url": "/static/css/main.2db68648.chunk.css"
+    "revision": "6314973308c7316bc797",
+    "url": "/static/css/main.b7df0b07.chunk.css"
   },
   {
-    "revision": "c6bf669a43634440f955",
-    "url": "/static/js/2.e3fa8bc7.chunk.js"
+    "revision": "6a88e489af163fb31d07",
+    "url": "/static/js/2.578286ca.chunk.js"
   },
   {
-    "revision": "c687f874cc1d9c5e65c8",
-    "url": "/static/js/main.6306033b.chunk.js"
+    "revision": "6314973308c7316bc797",
+    "url": "/static/js/main.e7719ba2.chunk.js"
   },
   {
     "revision": "cdaf7fd6de76bcde776b",
@@ -184,14 +184,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/microsoft.b06ede75.png"
   },
   {
-    "revision": "550652fef6618c50589b52e9ef8021be",
-    "url": "/static/media/nvidia.550652fe.png"
-  },
-  {
-    "revision": "5b305bcca920dc9034ce0d9498569ac4",
-    "url": "/static/media/olcademy.5b305bcc.png"
-  },
-  {
     "revision": "96f19d79085b72950a6acd150265d095",
     "url": "/static/media/profile.96f19d79.png"
   },
@@ -210,9 +202,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "905b9766ddee9714d24aa260ed99b26d",
     "url": "/static/media/udemy.905b9766.svg"
-  },
-  {
-    "revision": "384a077a128ad921b86f1e0fb2082276",
-    "url": "/static/media/uocsd.384a077a.png"
   }
 ]);

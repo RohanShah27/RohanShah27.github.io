@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.b27ac0e3.chunk.css",
-    "main.js": "/static/js/main.9bb34327.chunk.js",
-    "main.js.map": "/static/js/main.9bb34327.chunk.js.map",
+    "main.css": "/static/css/main.ca90b135.chunk.css",
+    "main.js": "/static/js/main.d029de92.chunk.js",
+    "main.js.map": "/static/js/main.d029de92.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a5445d1a.js",
     "runtime-main.js.map": "/static/js/runtime-main.a5445d1a.js.map",
-    "static/js/2.da3e3a6d.chunk.js": "/static/js/2.da3e3a6d.chunk.js",
-    "static/js/2.da3e3a6d.chunk.js.map": "/static/js/2.da3e3a6d.chunk.js.map",
+    "static/js/2.0feea69d.chunk.js": "/static/js/2.0feea69d.chunk.js",
+    "static/js/2.0feea69d.chunk.js.map": "/static/js/2.0feea69d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e23b11497f75824efe45be9159cd9711.js": "/precache-manifest.e23b11497f75824efe45be9159cd9711.js",
+    "precache-manifest.d5ea446cf65e3a73e64c8d2b2713d85c.js": "/precache-manifest.d5ea446cf65e3a73e64c8d2b2713d85c.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.b27ac0e3.chunk.css.map": "/static/css/main.b27ac0e3.chunk.css.map",
+    "static/css/main.ca90b135.chunk.css.map": "/static/css/main.ca90b135.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/abhinav.jpg": "/static/media/abhinav.d9ae70f1.jpg",
     "static/media/address_image.svg": "/static/media/address_image.3b021f8f.svg",
@@ -32,7 +32,7 @@
     "static/media/github_logo.png": "/static/media/github_logo.e64de169.png",
     "static/media/hs_logo.png": "/static/media/hs_logo.c4bac6ef.png",
     "static/media/microsoft.png": "/static/media/microsoft.b06ede75.png",
-    "static/media/profile.png": "/static/media/profile.96f19d79.png",
+    "static/media/profile.jpg": "/static/media/profile.125ab865.jpg",
     "static/media/projects_image.svg": "/static/media/projects_image.f7964c6b.svg",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.de3da806.svg",
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.7f0feeed.svg",
@@ -40,8 +40,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a5445d1a.js",
-    "static/js/2.da3e3a6d.chunk.js",
-    "static/css/main.b27ac0e3.chunk.css",
-    "static/js/main.9bb34327.chunk.js"
+    "static/js/2.0feea69d.chunk.js",
+    "static/css/main.ca90b135.chunk.css",
+    "static/js/main.d029de92.chunk.js"
   ]
 }
